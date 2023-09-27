@@ -1,0 +1,78 @@
+  LINGO/WIN64 20.0.16 (19 Apr 2023), LINDO API 14.0.5099.259
+
+  Licensee info: Eval Use Only
+  License expires: 17 NOV 2023
+
+  Global optimal solution found.
+  Objective value:                             0.9810925E+08
+  Infeasibilities:                              0.000000
+  Total solver iterations:                             0
+  Elapsed runtime seconds:                          0.11
+
+  Model Class:                                        LP
+
+  Total variables:                     35
+  Nonlinear variables:                  0
+  Integer variables:                    0
+
+  Total constraints:                   16
+  Nonlinear constraints:                0
+
+  Total nonzeros:                     115
+  Nonlinear nonzeros:                   0
+
+
+                                Variable           Value        Reduced Cost
+                        USA_LOCATION_LOW        0.000000            1761667.
+                       USA_LOCATION_HIGH        2.800000            0.000000
+                    GERMANY_LOCATION_LOW        0.000000            1353967.
+                   GERMANY_LOCATION_HIGH       0.9000000E-01        0.000000
+                      JAPAN_LOCATION_LOW        0.000000            1691200.
+                     JAPAN_LOCATION_HIGH        1.700000            0.000000
+                     BRAZIL_LOCATION_LOW        0.000000            870766.7
+                    BRAZIL_LOCATION_HIGH       0.1450000            0.000000
+                      INDIA_LOCATION_LOW       0.3200000            0.000000
+                     INDIA_LOCATION_HIGH        0.000000            1952933.
+                      USA_PRODUCTION_USA        2800000.            0.000000
+                  GERMANY_PRODUCTION_USA        0.000000            12.09013
+                    JAPAN_PRODUCTION_USA        0.000000            12.99733
+                   BRAZIL_PRODUCTION_USA        0.000000            7.648200
+                    INDIA_PRODUCTION_USA        0.000000            1.334800
+                  USA_PRODUCTION_GERMANY        0.000000            13.49487
+              GERMANY_PRODUCTION_GERMANY        90000.00            0.000000
+                JAPAN_PRODUCTION_GERMANY        0.000000            21.59220
+               BRAZIL_PRODUCTION_GERMANY        0.000000            14.49307
+                INDIA_PRODUCTION_GERMANY        0.000000            4.329667
+                    USA_PRODUCTION_JAPAN        0.000000            3.502667
+                GERMANY_PRODUCTION_JAPAN        0.000000            9.774800
+                  JAPAN_PRODUCTION_JAPAN        1700000.            0.000000
+                 BRAZIL_PRODUCTION_JAPAN        0.000000            21.60087
+                  INDIA_PRODUCTION_JAPAN        0.000000            14.58747
+                   USA_PRODUCTION_BRAZIL        0.000000            24.90180
+               GERMANY_PRODUCTION_BRAZIL        0.000000            27.80093
+                 JAPAN_PRODUCTION_BRAZIL        0.000000            50.00913
+                BRAZIL_PRODUCTION_BRAZIL        145000.0            0.000000
+                 INDIA_PRODUCTION_BRAZIL        0.000000            25.88660
+                    USA_PRODUCTION_INDIA        0.000000            21.09320
+                GERMANY_PRODUCTION_INDIA        0.000000            21.14333
+                  JAPAN_PRODUCTION_INDIA        0.000000            24.26253
+                 BRAZIL_PRODUCTION_INDIA        0.000000            33.26340
+                  INDIA_PRODUCTION_INDIA        160000.0            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       0.9810925E+08       -1.000000
+                                       2        0.000000            9.563333
+                                       3        0.000000            7.318467
+                                       4        0.000000            9.160667
+                                       5        0.000000            4.761533
+                                       6        0.000000            4.248133
+                                       7        0.000000           -21.56333
+                                       8        0.000000           -20.31847
+                                       9        0.000000           -19.16067
+                                      10        0.000000           -12.76153
+                                      11        0.000000           -9.248133
+                                      12       0.1000000E+11        0.000000
+                                      13       0.1000000E+11        0.000000
+                                      14       0.1000000E+11        0.000000
+                                      15       0.1000000E+11        0.000000
+                                      16       0.1000000E+11        0.000000
